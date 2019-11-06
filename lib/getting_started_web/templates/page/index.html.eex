@@ -1,0 +1,5 @@
+<section class="row">
+  <article class="column">
+    <a href="<%= Routes.user_path(@conn, :index) %>">Users</a>
+  </article>
+</section>
